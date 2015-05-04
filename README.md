@@ -1,3 +1,7 @@
+
+# Warning: Do not use if you DO NOT know what you are doing
+
+
 #  Ember Simple Auth
 
 This is an npm package that contains the Ember Simple Auth base library
