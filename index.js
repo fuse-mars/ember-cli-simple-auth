@@ -4,7 +4,7 @@ module.exports = {
   name: 'Ember CLI Simple Auth',
 
   included: function(app) {
-    app.import(app.bowerDirectory + '/ember-simple-auth/simple-auth.amd.js', {
+    app.import(app.bowerDirectory + '/ember-simple-auth-input/simple-auth.amd.js', {
       exports: {
         'simple-auth/authenticators/base':                    ['default'],
         'simple-auth/authorizers/base':                       ['default'],
