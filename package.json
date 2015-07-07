@@ -1,9 +1,9 @@
 {
-  "name": "ember-cli-simple-auth-custom-mars",
+  "name": "ember-cli-simple-auth-input",
   "author": "Marco Otte-Witte",
   "modifiedBy": "Marcellin Nshimiyimana",
   "license": "MIT",
-  "version": "0.8.0-beta.2.CUSTOM.0",
+  "version": "0.8.0",
   "description": "Include the Ember Simple Auth base library into an Ember CLI application.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fuse-mars/ember-cli-simple-auth.git"
+    "url": "https://github.com/fuse-mars/ember-cli-simple-auth-input.git"
   },
-  "homepage": "https://github.com/simplabs/ember-cli-simple-auth"
+  "homepage": "https://github.com/fuse-mars/ember-cli-simple-auth-input"
 }
