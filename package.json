@@ -3,7 +3,7 @@
   "author": "Marco Otte-Witte",
   "modifiedBy": "Marcellin Nshimiyimana",
   "license": "MIT",
-  "version": "0.8.0",
+  "version": "0.8.2",
   "description": "Include the Ember Simple Auth base library into an Ember CLI application.",
   "main": "index.js",
   "scripts": {
